@@ -1,9 +1,28 @@
 # Granular Stock Prediction
-This is a personal project for predicting granular movements in a few select stocks from the NYSE.
+This is a personal project for predicting granular movements in a few select stocks from the NYSE. The following stocks are currently the companies being used:
 
+* American Airlines Group Inc. (AAL)
+* Apple Inc. (AAPL)
+* Advanced Micro Devices, Inc. (AMD)
+* Amazon.com, Inc. (AMZN)
+* The Boeing Company (BA)
+* Bank of America Corporation (BAC)
+* Carnival Corporation & PLC (CCL)
+* Ford Motor Company (F)
+* Facebook, Inc. (FB)
+* General Electric Company (GE)
+* Alphabet Inc. (GOOG)
+* Intel Corporation (INTC)
+* Microsoft Corporation (MSFT)
+* Netflix, Inc. (NFLX)
+* NVIDIA Corporation (NVDA)
+* AT&T Inc. (T)
+* Tesla, Inc. (TSLA)
+* Twilio Inc. (TWLO)
+* Twitter, Inc. (TWTR)
+* Wells Fargo & Company (WFC)
 
 ## Installation
-
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements from the requirements file.
 
 ```bash
